@@ -100,12 +100,12 @@
     }
 }
 
-.dive__container-sub-subtext {
+.dive__container-subtext {
     font-weight: $bold;
     margin-top: rem(16);
     @include mq("md") {
         display: flex;
-        width: 100%;
+        width: 90%;
         font-size: rem(16);
         color: $white;
     }
